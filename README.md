@@ -23,5 +23,5 @@ The goal is to provide a **synthetic report** including:
 ## 🛠️ Installation
 Clone the repository:
 ```bash
-git clone https://github.com/<your_username>/stock-news-report.git
+git clone https://github.com/John-The-Reaper/ai-stock-reporter.git
 cd stock-news-report
